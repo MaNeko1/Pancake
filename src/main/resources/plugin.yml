@@ -2,8 +2,5 @@ name: Pancake
 version: '1.0-LUXNEKO'
 main: org.femgev.pancake.Pancake
 api-version: '1.21'
-authors: [ Mayday ]
+authors: [Mayday]
 website: luxneko.com
-commands:
-  pancake:
-    description: Pancake

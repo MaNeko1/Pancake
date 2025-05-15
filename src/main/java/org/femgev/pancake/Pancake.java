@@ -6,7 +6,7 @@ public final class Pancake extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        getLogger().info("Enable");
+        // Plugin startup logic
 
     }
 
